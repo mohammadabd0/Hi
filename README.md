@@ -9,8 +9,7 @@ A growth mindset believes abilities can be developed through perseverance and ef
 * Criticism
 * Success of others
 
-
-[![Image of growth mindset](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.google.jo/url?sa=i&url=https%3A%2F%2Fsites.dartmouth.edu%2Flearning%2F2017%2F05%2F18%2Funderstanding-the-growth-mindset%2F&psig=AOvVaw0XOxZe9TDRleziiitg_u0q&ust=1626178161766000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIDpqO-_3fECFQAAAAAdAAAAABAD)
+![Image of growth mindset](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
 **Growing at work**
 
