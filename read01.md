@@ -14,6 +14,7 @@ that most of the other engines don't have, such as inline attribute lists (IALs)
 * links
 * Paragraphs
 
+![Image of markdown](https://mozilla.github.io/open-leadership-training-series/img/github-markdown.png)
 
 
 
