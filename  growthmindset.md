@@ -1,4 +1,3 @@
-# Hi, my name is Mohammed abdo im 21 y.o I'm a second-year software engineering and I'm interested in web development because it has a lot of things that I want to learn.
 ### Summary
 #### The growth mindset can open pathways to more creativity and the possibility and When we’re growing, we’re more productive. 
 A growth mindset believes abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning. but in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
