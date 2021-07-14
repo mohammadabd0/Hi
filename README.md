@@ -4,7 +4,7 @@ reads | links
 ------------ | -------------
 growth mindset  | [ growthmindset ](https://mohammadabd0.github.io/reading-notes/growthmindset)
 md lang | [markdown](https://mohammadabd0.github.io/reading-notes/read01)
-
+HTML | [HTML](https://mohammadabd0.github.io/reading-notes/read03)
 
 
 
