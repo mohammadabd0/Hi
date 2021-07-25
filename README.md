@@ -7,6 +7,6 @@ md lang | [markdown](https://mohammadabd0.github.io/reading-notes/read01)
 HTML | [HTML](https://mohammadabd0.github.io/reading-notes/read03)
 js | [js](https://mohammadabd0.github.io/reading-notes/read04)
 Css | [Css](https://mohammadabd0.github.io/reading-notes/read06)
-read06 |[read06](https://mohammadabd0.github.io/reading-notes/read06)
-
+read05 |[read05](https://mohammadabd0.github.io/reading-notes/read05)
+read07 |[read07](https://mohammadabd0.github.io/reading-notes/read07)
 
