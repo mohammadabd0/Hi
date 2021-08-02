@@ -42,3 +42,22 @@ Websites can be used in various fashions: a personal website, a corporate websit
   web browser
 
 ## what is html ?
+
+HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page’s appearance/presentation (CSS) or functionality/behavior (JavaScript). The term “hypertext” refers to links that connect online pages inside a single website or between websites. Links are an important part of the Internet. You become an active participant in the World Wide Web by uploading content to the Internet and linking it to other people’s pages.
+
+## HTML elements
+
+HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as head, title, body, header, footer, article, section, p, div, span, img, aside, audio, canvas, datalist, details, embed, nav, output, progress, video, ul, ol, li and many others.
+
+# CSS (Cascading Style Sheets)
+
+it allows you to create great-looking web pages.
+In the Introduction to HTML module we covered what HTML is, and how it is used to mark up documents. These documents will be readable in a web browser. Headings will look larger than regular text, paragraphs break onto a new line and have space between them. Links are colored and underlined to distinguish them from the rest of the text. What you are seeing is the browser's default styles — very basic styles that the browser applies to HTML to make sure it will be basically readable even if no explicit styling is specified by the author of the page.
+
+## CSS use for
+
+CSS can be used for very basic document text styling — for example changing the color and size of headings and links. It can be used to create layout — for example turning a single column of text into a layout with a main content area and a sidebar for related information. It can even be used for effects such as animation. Have a look at the links in this paragraph for specific examples.
+
+## JavaScript
+
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
