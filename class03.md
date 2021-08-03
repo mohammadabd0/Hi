@@ -35,7 +35,7 @@ Fourth item
 
 In computer programming, control flow or flow of control is the order function calls, instructions, and statements are executed or evaluated when a program is running. Many programming languages have what are called control flow statements, which determine what section of code is run in a program at any time. An example of a control flow statement is an if/else statement
 
-# Why we need the control flow?
+# Why we need the control flow
 
 In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. The emphasis on explicit control flow distinguishes an imperative programming language from a declarative programming language.
 
@@ -56,6 +56,7 @@ else {
 In CSS, the term "box model" is used when talking about design and layout.
 
 The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model:
+
 ![css](css.png)
 
 ## elements of box model in CSS
