@@ -22,14 +22,7 @@ Fourth item
 
 ## HTML List Tags
 
-| tag     | Description                              |
-| ------- | ---------------------------------------- |
-| ` <ul>` | Defines an unordered list                |
-| ` <ol>` | Defines an ordered list                  |
-| ` <li>` | Defines a list item                      |
-| ` <dl>` | Defines a description list               |
-| ` <dt>` | Defines a term in a description list     |
-| ` <dd>` | Describes the term in a description list |
+![tags](tags.png)
 
 # What is the control flow?
 
