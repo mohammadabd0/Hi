@@ -12,18 +12,18 @@
 
 # 201d35
 
-| reads   | links                                                           |
-| ------- | --------------------------------------------------------------- |
-| class1  | [class01](https://mohammadabd0.github.io/reading-notes/class01) |
-| class2  | [class02](https://mohammadabd0.github.io/reading-notes/class02) |
-| class3  | [class03](https://mohammadabd0.github.io/reading-notes/class03) |
-| class4  | [class04](https://mohammadabd0.github.io/reading-notes/class04) |
-| class5  | [class05](https://mohammadabd0.github.io/reading-notes/class05) |
-| class6  | [class06](https://mohammadabd0.github.io/reading-notes/class06) |
-| class7  | [class07](https://mohammadabd0.github.io/reading-notes/class07) |
-| class8  | [class08](https://mohammadabd0.github.io/reading-notes/class08) |
-| class9  |
-| class10 |
+| reads   | links                                                             |
+| ------- | ----------------------------------------------------------------- |
+| class1  | [class01](https://mohammadabd0.github.io/reading-notes/class01)   |
+| class2  | [class02](https://mohammadabd0.github.io/reading-notes/class02)   |
+| class3  | [class03](https://mohammadabd0.github.io/reading-notes/class03)   |
+| class4  | [class04](https://mohammadabd0.github.io/reading-notes/class04)   |
+| class5  | [class05](https://mohammadabd0.github.io/reading-notes/class05)   |
+| class6  | [class06](https://mohammadabd0.github.io/reading-notes/class06)   |
+| class7  | [class07](https://mohammadabd0.github.io/reading-notes/class07)   |
+| class8  | [class08](https://mohammadabd0.github.io/reading-notes/class08)   |
+| class9  | [class09](https://mohammadabd0.github.io/reading-notes/class09)   |
+| class10 | [class010](https://mohammadabd0.github.io/reading-notes/class010) |
 | class11 |
 | class12 |
 | class14 |
