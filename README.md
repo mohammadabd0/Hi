@@ -24,7 +24,7 @@
 | class8  | [class08](https://mohammadabd0.github.io/reading-notes/class08)   |
 | class9  | [class09](https://mohammadabd0.github.io/reading-notes/class09)   |
 | class10 | [class010](https://mohammadabd0.github.io/reading-notes/class010) |
-| class11 |
-| class12 |
+| class11 | [class011](https://mohammadabd0.github.io/reading-notes/class011) |
+| class12 | [class012](https://mohammadabd0.github.io/reading-notes/class012) |
 | class14 |
 | class15 |
