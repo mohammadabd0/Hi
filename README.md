@@ -26,5 +26,6 @@
 | class10 | [class010](https://mohammadabd0.github.io/reading-notes/class010) |
 | class11 | [class011](https://mohammadabd0.github.io/reading-notes/class011) |
 | class12 | [class012](https://mohammadabd0.github.io/reading-notes/class012) |
-| class14 |
-| class15 |
+| class13 | [class013](https://mohammadabd0.github.io/reading-notes/class013) |
+| class14 | [class014](https://mohammadabd0.github.io/reading-notes/class014) |
+| class15 | [class015](https://mohammadabd0.github.io/reading-notes/class015) |
