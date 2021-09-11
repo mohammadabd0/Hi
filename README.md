@@ -29,3 +29,23 @@
 | class13 | [class013](https://mohammadabd0.github.io/reading-notes/class013) |
 | class14 | [class014](https://mohammadabd0.github.io/reading-notes/class014) |
 | class15 | [class015](https://mohammadabd0.github.io/reading-notes/class015) |
+
+# amman-code-301d33
+
+| reads   | links |
+| ------- | ----- |
+| class1  |
+| class2  |
+| class3  |
+| class4  |
+| class5  |
+| class6  |
+| class7  |
+| class8  |
+| class9  |
+| class10 |
+| class11 |
+| class12 |
+| class13 |
+| class14 |
+| class15 |
