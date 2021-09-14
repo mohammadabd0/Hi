@@ -32,11 +32,11 @@
 
 # amman-code-301d33
 
-| reads   | links |
-| ------- | ----- |
-| class1  |
-| class2  |
-| class3  |
+| reads   | links     |
+| ------- | --------- |
+| class1  | [readclass01](https://mohammadabd0.github.io/reading-notes/readclass01) |
+| class2  | [readclass02](https://mohammadabd0.github.io/reading-notes/readclass02)
+| class3  | [readclass03](https://mohammadabd0.github.io/reading-notes/readclass03)
 | class4  |
 | class5  |
 | class6  |
