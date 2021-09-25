@@ -40,9 +40,9 @@
 | class4  | [readclass04](https://mohammadabd0.github.io/reading-notes/readclass04) |
 | class5  | [readclass05](https://mohammadabd0.github.io/reading-notes/readclass05) |
 | class6  | [readclass06](https://mohammadabd0.github.io/reading-notes/readclass06) |
-| class7  |
-| class8  |
-| class9  |
+| class7  | [readclass07](https://mohammadabd0.github.io/reading-notes/readclass07) |
+| class8  | [readclass08](https://mohammadabd0.github.io/reading-notes/readclass08) |
+| class9  | [readclass09](https://mohammadabd0.github.io/reading-notes/readclass09) |
 | class10 |
 | class11 |
 | class12 |
